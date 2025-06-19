@@ -1,6 +1,6 @@
 # eopf-safe-2-healpix
 
-### 1. setup repo & env
+### I. setup repo & env
 
 1. Clone the repository:
 
@@ -15,7 +15,7 @@ cd eopf-safe-2-healpix
 conda create -n ai_processor python==3.11.4
 conda activate eopf
 ```
-### 2. setup cdse credentials
+### II. setup cdse credentials
 
 Set up your credentials by creating a `.env` file in the root directory with the following content:
 
