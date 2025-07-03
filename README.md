@@ -15,6 +15,12 @@ cd eopf-safe-2-healpix
 conda create -n eopf python==3.11.4
 conda activate eopf
 ```
+
+Install pyhthon packages
+```bash
+pip install -r requirements.txt
+```
+
 ### II. setup CDSE credentials
 
 - Create an account CDSE on https://dataspace.copernicus.eu/
