@@ -12,7 +12,7 @@ cd eopf-safe-2-healpix
 2. Create and activate a conda environment:
 
 ```bash
-conda create -n ai_processor python==3.11.4
+conda create -n eopf python==3.11.4
 conda activate eopf
 ```
 ### II. setup CDSE credentials
