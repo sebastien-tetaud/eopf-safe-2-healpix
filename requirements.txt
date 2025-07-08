@@ -1,14 +1,13 @@
 aiohttp==3.11.16
 backports.tarfile==1.2.0
 bokeh==3.7.2
-boto3==1.37.26
 bottleneck==1.4.2
 brotli==1.1.0
 cartopy==0.24.1
 cffi==1.17.1
 conflator==0.1.7
 crc32c==2.7.1
-distributed==2025.3.0
+# distributed==2025.3.0
 dotenv==0.9.9
 eopf==2.5.9
 exceptiongroup==1.2.2
@@ -23,11 +22,10 @@ hvplot==0.11.3
 h2==4.2.0
 h3==4.3.0
 h5netcdf==1.6.1
-importlib-metadata==8.6.1
 ipykernel==6.29.5
 isort==6.0.1
 jaraco.collections==5.1.0
-lxml==5.3.1
+# lxml==5.3.1
 lz4==4.4.4
 nbformat==5.10.4
 nc-time-axis==1.4.1
@@ -39,13 +37,11 @@ pickleshare==0.7.5
 pyarrow==19.0.1
 pysocks==1.7.1
 pystac-client==0.8.6
-rasterio==1.4.3
-seaborn==0.13.2
-sentinelsat==1.2.1
+# rasterio==1.4.3
 sparse==0.16.0
 tomli==2.0.1
 xarray==2024.11.0
 xdggs==0.2.0
-zarr==3.0.6
+zarr==2.18.4
 zstandard==0.23.0
 
